@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "a90bba329aa5d2cd7a7ef4e8fb8f520341ad1a96",
-   "url": "https://github.com/emoncms/config",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/openenergymonitor/emonhub",
+   "head": "6b98217eb2785e12c50586ff38aeebcc6dd937ae",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/emoncms/config"
   }
  },
  "license": "AGPL-3.0",
