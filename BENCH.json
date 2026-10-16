@@ -543,7 +543,7 @@
    "url": "https://github.com/openenergymonitor/emonhub",
    "head": "6b98217eb2785e12c50586ff38aeebcc6dd937ae",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/emoncms/config"
+   "previous_substitute": "https://github.com/openenergymonitor/emonhub"
   }
  },
  "license": "AGPL-3.0",
